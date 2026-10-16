@@ -25,7 +25,7 @@ None. LinkChecker has no server of its own, contains no analytics or tracking, a
 
 ## Contact
 
-If you have questions about this policy, contact: [your contact address]
+If you have questions about this policy, contact: tksg.wtr@gmail.com
 
 ---
 
@@ -56,4 +56,4 @@ LinkChecker は、リンクを開く前に本当のリンク先ドメインを�
 
 ## お問い合わせ
 
-このポリシーについてのお問い合わせ先: [連絡先]
+このポリシーについてのお問い合わせ先: tksg.wtr@gmail.com
